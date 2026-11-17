@@ -6,5 +6,14 @@ Automates the replacement of the HES Activity workbook used by Power BI.
 - Worksheet renaming
 - Workbook archiving
 - Workbook promotion
-- Author
+- Modified date warning
+##Workflow
+- Find incoming workbook
+- Validate headers
+- Rename worksheet tab
+- Archive production workbook
+- Promote incoming workbook
+- Verify worksheet name
+
+ Author
 ## Joanna Pogorzelska-Abbasciano
